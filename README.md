@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Ldn26
-- 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning javaScript , React and Some Cybersecurity 
-- 💞️ I’m looking to collaborate on any company or team to get the experience in this field
-- 📫 How to reach me   gmail and social midea
+# Hello, I'm Youcef-Ldn! 👋
+Welcome to my GitHub profile! Here's a little about me:
+- 👀 I’m interested in programming and cybersecurity.
+- 🌱 I’m currently learning JavaScript, React, and some cybersecurity.
+- 💼 I'm looking to collaborate with any company or team to gain experience in these fields.
+- 📫 You can reach me via email yousseflaidani6@gmail.com or on social media 
 
-<!---
-Ldn26/Ldn26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+Here are some of the skills I have:
+
+- JavaScript (JS)
+- React.js
+- HTML
+- CSS && Tailwind
+- Cybersecurity (Reverse Engineering)
+
+Feel free to connect with me and explore my projects!
